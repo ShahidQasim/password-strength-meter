@@ -159,6 +159,8 @@ def main():
         - Don't use personal information
         - Use different passwords for different accounts
         """)
+         st.markdown("---")
+        st.markdown("<div style='text-align: center; color: #666;'>Made with ❤️ by Shahid Qasim</div>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main() 
